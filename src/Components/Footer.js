@@ -6,7 +6,7 @@ function Footer() {
         Developed by{" "}
         <a
           className="font-medium"
-          href="#"
+          href="https://www.linkedin.com/in/amanbansal2408"
           target="_blank"
           rel="noreferrer noopener"
         >
