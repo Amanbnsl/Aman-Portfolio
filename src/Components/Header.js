@@ -108,7 +108,7 @@ function Header() {
            {/* Added Resume link */}
           <li className="pb-1 md:pb-0">
             <a
-              href="https://drive.google.com/file/d/13EUdd3YraeWmnm3SJbV_G8G2Wzv19oia/view?usp=drivesdk"           // ← Change this to your actual resume URL
+              href="https://drive.google.com/file/d/14ZBQdqcmeKWqjpSOQIqDCyJ_BNkjqMx_/view?usp=drive_link"           // ← Change this to your actual resume URL
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-5 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
